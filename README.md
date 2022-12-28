@@ -10,9 +10,9 @@ To use this CLI just pass the path to the file and a valid local or network Wind
 
 Binaries comes in two .NET flavors:
 
-* [Self-Contained ready to run CLI](https://github.com/diegosiao/pdf-printer-cli/binaries/pdf-printer-cli-selfcontained-win-x64.zip)
+* [Self-Contained ready to run CLI](https://github.com/diegosiao/pdf-printer-cli/blob/master/binaries/pdf-printer-cli-selfcontained-win-x64.zip)
 
-* [.NET6+ SDK or Runtime dependent](https://github.com/diegosiao/pdf-printer-cli/binaries/pdf-printer-cli-dotnet6-dependent-win-x64.zip)
+* [.NET6+ SDK or Runtime dependent](https://github.com/diegosiao/pdf-printer-cli/blob/master/binaries/pdf-printer-cli-dotnet6-dependent-win-x64.zip)
 
 ## All Credits to PDFtoPrinter
 
