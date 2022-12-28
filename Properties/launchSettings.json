@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pdf-printer": {
+      "commandName": "Project",
+      "commandLineArgs": "file-1.pdf \"HPF498BE (HP Ink Tank Wireless 410 series)\""
+    }
+  }
+}
