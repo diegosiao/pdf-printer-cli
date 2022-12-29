@@ -8,7 +8,7 @@ To use this CLI just pass the path to the file and a valid local or network Wind
 .\pdf-printer.exe file-1.pdf "HPF498BE (HP Ink Tank Wireless 410 series)"
 ```
 
-Binaries comes in two .NET flavors:
+Binaries comes in two .NET flavors (Win-x64):
 
 * [Self-Contained ready to run CLI](https://github.com/diegosiao/pdf-printer-cli/raw/master/binaries/pdf-printer-cli-selfcontained-win-x64.zip)
 
